@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "m07CyAWFL5+3XKHqIkwukBJU/Wc/oHTNOt3DKCaayozZ8hEyEoHc477DrQTqinpK8aczHVcC5vRvq8ywAUIe1Q==",
+  "success": true,
+  "projectFilePath": "D:\\Formation C#-WPF\\ConsoleAppJeuTICTACTOE\\ConsoleAppJeuTICTACTOE\\ConsoleAppJeuTICTACTOE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

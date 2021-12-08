@@ -1,0 +1,16 @@
+D:\Formation C#-WPF\ConsoleAppJeuTICTACTOE\ConsoleAppJeuTICTACTOE\bin\Debug\net5.0\ConsoleAppJeuTICTACTOE.exe
+D:\Formation C#-WPF\ConsoleAppJeuTICTACTOE\ConsoleAppJeuTICTACTOE\bin\Debug\net5.0\ConsoleAppJeuTICTACTOE.deps.json
+D:\Formation C#-WPF\ConsoleAppJeuTICTACTOE\ConsoleAppJeuTICTACTOE\bin\Debug\net5.0\ConsoleAppJeuTICTACTOE.runtimeconfig.json
+D:\Formation C#-WPF\ConsoleAppJeuTICTACTOE\ConsoleAppJeuTICTACTOE\bin\Debug\net5.0\ConsoleAppJeuTICTACTOE.runtimeconfig.dev.json
+D:\Formation C#-WPF\ConsoleAppJeuTICTACTOE\ConsoleAppJeuTICTACTOE\bin\Debug\net5.0\ConsoleAppJeuTICTACTOE.dll
+D:\Formation C#-WPF\ConsoleAppJeuTICTACTOE\ConsoleAppJeuTICTACTOE\bin\Debug\net5.0\ref\ConsoleAppJeuTICTACTOE.dll
+D:\Formation C#-WPF\ConsoleAppJeuTICTACTOE\ConsoleAppJeuTICTACTOE\bin\Debug\net5.0\ConsoleAppJeuTICTACTOE.pdb
+D:\Formation C#-WPF\ConsoleAppJeuTICTACTOE\ConsoleAppJeuTICTACTOE\obj\Debug\net5.0\ConsoleAppJeuTICTACTOE.csproj.AssemblyReference.cache
+D:\Formation C#-WPF\ConsoleAppJeuTICTACTOE\ConsoleAppJeuTICTACTOE\obj\Debug\net5.0\ConsoleAppJeuTICTACTOE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formation C#-WPF\ConsoleAppJeuTICTACTOE\ConsoleAppJeuTICTACTOE\obj\Debug\net5.0\ConsoleAppJeuTICTACTOE.AssemblyInfoInputs.cache
+D:\Formation C#-WPF\ConsoleAppJeuTICTACTOE\ConsoleAppJeuTICTACTOE\obj\Debug\net5.0\ConsoleAppJeuTICTACTOE.AssemblyInfo.cs
+D:\Formation C#-WPF\ConsoleAppJeuTICTACTOE\ConsoleAppJeuTICTACTOE\obj\Debug\net5.0\ConsoleAppJeuTICTACTOE.csproj.CoreCompileInputs.cache
+D:\Formation C#-WPF\ConsoleAppJeuTICTACTOE\ConsoleAppJeuTICTACTOE\obj\Debug\net5.0\ConsoleAppJeuTICTACTOE.dll
+D:\Formation C#-WPF\ConsoleAppJeuTICTACTOE\ConsoleAppJeuTICTACTOE\obj\Debug\net5.0\ref\ConsoleAppJeuTICTACTOE.dll
+D:\Formation C#-WPF\ConsoleAppJeuTICTACTOE\ConsoleAppJeuTICTACTOE\obj\Debug\net5.0\ConsoleAppJeuTICTACTOE.pdb
+D:\Formation C#-WPF\ConsoleAppJeuTICTACTOE\ConsoleAppJeuTICTACTOE\obj\Debug\net5.0\ConsoleAppJeuTICTACTOE.genruntimeconfig.cache
